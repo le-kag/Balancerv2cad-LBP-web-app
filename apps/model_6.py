@@ -4,7 +4,7 @@ import numpy as np
 import plotly.express as px
 
 def app():
-    st.title('Simulation 5')
+    st.title('Simulation 6')
 
     st.write('The Sensitivity of distrubution of Token A is presented below with the parameter: Actors.')
 
