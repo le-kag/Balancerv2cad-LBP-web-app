@@ -18,5 +18,5 @@ def app():
         y='balance_of_Token_A',
         color='par_swap_fee',
         animation_frame='par_swap_fee',
-        height=450, width=1000)
+        height=450, width=800)
     st.plotly_chart(fig5)
