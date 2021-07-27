@@ -5,7 +5,7 @@ def app():
 
     st.write("""
     # Balancer Research Group - Initial Parameters of LBPs - Sensitivity Analysis
-    By Chris Kagabe & Vasileios Panagiotidi
+    By Chris Kagabe & Vasileios Panagiotidis
     """
     )
 
