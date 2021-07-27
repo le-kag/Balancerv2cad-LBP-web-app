@@ -19,5 +19,5 @@ def app():
         y='balance_of_Token_A',
         color='par_weight_token_B_inverse',
         animation_frame='par_weight_token_B_inverse',
-        height=450, width=1000)
+        height=450, width=800)
     st.plotly_chart(fig4)
